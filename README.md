@@ -1,4 +1,4 @@
-# ConsoleShip
+# ConsoleShip (WIP)
 Java Console version of the Battleship game:
 http://goo.gl/Lf0NO5
 
